@@ -1,6 +1,6 @@
 # Shopify App Template - Node
 
-# Comments
+# Comment
 
 shopify-appQR
 Link del tutorial "https://shopify.dev/docs/apps/getting-started/build-app-example"
@@ -12,7 +12,7 @@ iniciar el proyecto modo desarrollador
 - Si te preguntan "Have Shopify automatically update your app's URL in order to create a preview experience?" seleccionar la opcion de "Always by default"
 - Inicial el proyecto con la configuracion por Default "npm run dev -- --reset"
 
-#endComment
+# endComment
 
 This is a template for building a [Shopify app](https://shopify.dev/apps/getting-started) using Node and React. It contains the basics for building a Shopify app.
 
