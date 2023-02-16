@@ -3,8 +3,11 @@
 # Comment
 
 shopify-appQR.
+
 Link del tutorial "https://shopify.dev/docs/apps/getting-started/build-app-example".
+
 iniciar el proyecto modo desarrollador:
+
 - npm run dev
 # IMPORTANTE:
 - Tener cuenta de Shopify Partner
